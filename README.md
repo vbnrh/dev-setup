@@ -20,9 +20,9 @@
 
 ### Installation
 
-1. Download the file [install-ocs.sh](https://github.com/afreen23/dev-setup/blob/main/install-ocs.sh)
+1. Download the file [install-ocs.sh](https://github.com/vbnrh/dev-setup/blob/main/install-ocs.sh)
   ```bash
-    wget https://raw.githubusercontent.com/afreen23/dev-setup/main/install-ocs.sh
+    wget https://raw.githubusercontent.com/vbnrh/dev-setup/main/install-ocs.sh
     chmod +x install-ocs.sh
   ```
 2. Login to your OCP cluster
